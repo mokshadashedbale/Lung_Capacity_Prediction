@@ -6,11 +6,16 @@ This repository contains code for building a regression model to predict lung ca
 
 The dataset used for this regression model contains the following variables:
 
-1. LungCap: Lung capacity (target variable)
+1.LungCap: Lung capacity (target variable)
+
 2.Age: Age of the individual
+
 3.Height : Height of the individual
+
 4.Smoke : Smoking status (0 for non-smoker, 1 for smoker)
+
 5.Gender: Gender of the individual (0 for male, 1 for female)
+
 6.Caesarean: Whether the individual was delivered via Caesarean section (0 for no, 1 for yes)
 
 ## Regression Model
