@@ -1,0 +1,8 @@
+Here's the meaning of variables:
+
+1.LungCap: It’s the lung capacity(closing capacity) of the person
+2.Age: It’s how old is the person
+3.Height: It’s how tall is the person
+4.Smoke: If the person smokes or doesn’t smoke
+5.Gender: If are male or female
+6.Caesarean: If they’re born by caesarean
